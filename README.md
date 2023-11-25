@@ -12,7 +12,7 @@ Screens with 40 pin
 https://www.waveshare.com/1.44inch-lcd-hat.htm?amazon
 
 # Breadboard
-<img src="https://github.com/Bt08s/Raspberry-Pi-Scripts/assets/68190921/2f2ec62d-00ac-460a-8613-a87ecbba63a4" width=50% height=50%>
+<img src="https://github.com/Bt08s/Raspberry-Pi-Scripts/assets/68190921/2f2ec62d-00ac-460a-8613-a87ecbba63a4" width=20% height=20%>
 
 ```
 .-------------------------.
