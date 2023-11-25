@@ -8,8 +8,6 @@ https://www.waveshare.com/li-ion-battery-hat.htm
 
 
 # Screen
-Compatible with all 40-pin Raspberry Pi models
-
 https://www.waveshare.com/1.44inch-lcd-hat.htm?amazon
 
 ```
