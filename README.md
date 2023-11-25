@@ -12,7 +12,7 @@ Screens with 40 pin
 https://www.waveshare.com/1.44inch-lcd-hat.htm?amazon
 
 # Breadboard
-http://bc.vc/v0Bf6qa
+http://tiny.cc/mini-breadboard
 
 ```
 .-------------------------.
