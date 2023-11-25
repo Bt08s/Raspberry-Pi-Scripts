@@ -11,6 +11,9 @@ Screens with 40 pin
 
 https://www.waveshare.com/1.44inch-lcd-hat.htm?amazon
 
+# Breadboard
+![image](https://github.com/Bt08s/Raspberry-Pi-Scripts/assets/68190921/2f2ec62d-00ac-460a-8613-a87ecbba63a4)
+
 ```
 .-------------------------.
 | oooooooooooooooooooo J8 |
