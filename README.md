@@ -2,9 +2,7 @@
 Raspberry Pi Zero WH
 
 # Power
-5V power supply - Either a 5V 2A with cable or combine a 5V 1A power supply and a Micro USB cable.
-
-https://www.waveshare.com/li-ion-battery-hat.htm
+Power supply/bank with 5V 2A or Li ion battery hat
 
 
 # Screen
