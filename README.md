@@ -1,3 +1,9 @@
+# Model
+Raspberry Pi Zero WH
+
+# Power
+5V power supply - Either a 5V 2A with cable or combine a 5V 1A power supply and a Micro B USB cable.
+
 ```
 .-------------------------.
 | oooooooooooooooooooo J8 |
