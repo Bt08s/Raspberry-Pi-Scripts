@@ -1,2 +1,7 @@
-![image](https://github.com/Bt08s/Raspberry-Pi-Scripts/assets/68190921/9457de24-ea10-438c-ab97-013be853e23f)
-* Tested on RPI Zero WH
+.-------------------------.
+| oooooooooooooooooooo J8 |
+| 1ooooooooooooooooooo   |c
+---+       +---+ PiZero W|s
+ sd|       |SoC|   V1.1  |i
+---+|hdmi| +---+  usb pwr |
+`---|    |--------| |-| |-'
