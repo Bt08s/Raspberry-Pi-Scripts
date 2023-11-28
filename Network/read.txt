@@ -1,5 +1,6 @@
 # sudo nano /etc/rc.local
 # Add this two lines to end of code before 'exit 0'
 
-sudo python3 /home/pi/Network/fix.py
-sudo python3 /home/pi/Network/auto_conn.py
+fbcp &
+sudo python3 /home/pi/Network/fix.py &
+sudo python3 /home/pi/Network/auto_conn.py &
