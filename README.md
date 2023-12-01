@@ -1,5 +1,5 @@
 # Model
-Raspberry Pi Zero WH
+Raspberry Pi Zero W, WH
 
 # Power
 Power supply/bank with 5V 2A or Li ion battery hat
