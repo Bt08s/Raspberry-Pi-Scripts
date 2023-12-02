@@ -17,6 +17,9 @@ http://tiny.cc/mini-breadboard
 # Radio frequency
 https://market.samm.com/433-mhz-rf-wireless-en
 
+# Infrared
+https://www.direnc.net/kizilotesi-alici-verici-arduino-modul-38khz?language=tr&h=f22cc00e
+
 ```
 .-------------------------.
 | oooooooooooooooooooo J8 |
