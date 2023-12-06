@@ -7,8 +7,6 @@ Power supply/bank with 5V 2A or Li ion battery hat
 https://www.waveshare.com/li-ion-battery-hat.htm
 
 # Screen
-Screens with 40 pin
-
 https://www.waveshare.com/1.44inch-lcd-hat.htm?amazon
 
 # Breadboard
