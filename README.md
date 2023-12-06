@@ -15,10 +15,10 @@ https://www.waveshare.com/1.44inch-lcd-hat.htm?amazon
 http://tiny.cc/mini-breadboard
 
 # Radio frequency
-https://market.samm.com/433-mhz-rf-wireless-en
+https://www.direnc.net/sx1268-lora-hat-for-raspberry-pi-433mhz-frequency-band-for-europe-asia-africa
 
 # Infrared
-https://www.direnc.net/kizilotesi-alici-verici-arduino-modul-38khz?language=tr&h=f22cc00e
+https://www.direnc.net/ir-alici-verici-modul
 
 ```
 .-------------------------.
