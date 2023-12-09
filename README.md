@@ -2,9 +2,9 @@
 Raspberry Pi Zero W, WH
 
 # Power
-Power supply/bank with 5V 2A or Li ion battery hat
+Power supply/bank/module with 5V 2A or Li ion battery hat
 
-https://www.waveshare.com/li-ion-battery-hat.htm
+https://www.tindie.com/products/pisugar/pisugar-3-battery-for-raspberry-pi-zero/
 
 # Screen
 https://www.waveshare.com/1.44inch-lcd-hat.htm?amazon
