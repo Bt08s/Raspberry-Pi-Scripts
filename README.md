@@ -2,7 +2,7 @@
 Raspberry Pi Zero W, WH
 
 # Power
-Power supply/bank/module with 5V 2A or Li ion battery hat
+Power supply/bank/module with 5V 2A
 
 https://www.tindie.com/products/pisugar/pisugar-3-battery-for-raspberry-pi-zero/
 
