@@ -17,7 +17,8 @@ https://www.direnc.net/sx1268-lora-hat-for-raspberry-pi-433mhz-frequency-band-fo
 # Infrared
 https://www.direnc.net/ir-alici-verici-modul
 
-```
+# 
+```py
 .-------------------------.
 | oooooooooooooooooooo J8 |
 | 1ooooooooooooooooooo   |c
@@ -26,7 +27,7 @@ https://www.direnc.net/ir-alici-verici-modul
 ---+|hdmi| +---+  usb pwr |
 `---|    |--------| |-| |-'
 ```
-```
+```py
    3V3  (1) (2)  5V
  GPIO2  (3) (4)  5V
  GPIO3  (5) (6)  GND
