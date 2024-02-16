@@ -1,3 +1,5 @@
+Bluetooth needs update
+
 # Model
 Raspberry Pi Zero W, WH
 
